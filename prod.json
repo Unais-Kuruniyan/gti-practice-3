@@ -1,0 +1,238 @@
+
+           {
+             "id": 41,
+            "documentId": "zlyze4wq61tlwlgjm01b0cz6",
+            "name": "BMW New Series",
+            "slug": "bmw-new-series",
+            "description": "Experience the thrill of German engineering in miniature form with this exquisitely crafted BMW die-cast model. Whether you're a car enthusiast or a collector, this scaled replica captures the iconic design, luxury, and performance essence of BMW.",
+            "price": 2459,
+            "scale": "1:24",
+            "isLimitedEdition": true,
+            "stock": 7,
+            "createdAt": "2025-05-27T14:05:57.033Z",
+            "updatedAt": "2025-05-29T08:24:27.412Z",
+            "publishedAt": "2025-05-29T08:24:28.383Z",
+            "images": [
+                {
+                    "id": 49,
+                    "documentId": "p759aok1c4fbi2hk7ub98me4",
+                    "name": "bmw (2).png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 500,
+                    "height": 500,
+                    "formats": {
+                        "thumbnail": {
+                            "ext": ".png",
+                            "url": "https://res.cloudinary.com/dbg0g1ot1/image/upload/v1748503783/thumbnail_bmw_2_b6410f068f.png",
+                            "hash": "thumbnail_bmw_2_b6410f068f",
+                            "mime": "image/png",
+                            "name": "thumbnail_bmw (2).png",
+                            "path": null,
+                            "size": 24.4,
+                            "width": 156,
+                            "height": 156,
+                            "sizeInBytes": 24402,
+                            "provider_metadata": {
+                                "public_id": "thumbnail_bmw_2_b6410f068f",
+                                "resource_type": "image"
+                            }
+                        }
+                    },
+                    "hash": "bmw_2_b6410f068f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 46.84,
+                    "url": "https://res.cloudinary.com/dbg0g1ot1/image/upload/v1748503783/bmw_2_b6410f068f.png",
+                    "previewUrl": null,
+                    "provider": "cloudinary",
+                    "provider_metadata": {
+                        "public_id": "bmw_2_b6410f068f",
+                        "resource_type": "image"
+                    },
+                    "createdAt": "2025-05-29T07:29:44.083Z",
+                    "updatedAt": "2025-05-29T07:29:44.083Z",
+                    "publishedAt": "2025-05-29T07:29:44.084Z"
+                },
+                {
+                    "id": 50,
+                    "documentId": "e10flv34r6xc6jbzh39yl3ez",
+                    "name": "bmw (1).png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 575,
+                    "height": 434,
+                    "formats": {
+                        "small": {
+                            "ext": ".png",
+                            "url": "https://res.cloudinary.com/dbg0g1ot1/image/upload/v1748503784/small_bmw_1_e557270ec4.png",
+                            "hash": "small_bmw_1_e557270ec4",
+                            "mime": "image/png",
+                            "name": "small_bmw (1).png",
+                            "path": null,
+                            "size": 307.83,
+                            "width": 500,
+                            "height": 377,
+                            "sizeInBytes": 307830,
+                            "provider_metadata": {
+                                "public_id": "small_bmw_1_e557270ec4",
+                                "resource_type": "image"
+                            }
+                        },
+                        "thumbnail": {
+                            "ext": ".png",
+                            "url": "https://res.cloudinary.com/dbg0g1ot1/image/upload/v1748503783/thumbnail_bmw_1_e557270ec4.png",
+                            "hash": "thumbnail_bmw_1_e557270ec4",
+                            "mime": "image/png",
+                            "name": "thumbnail_bmw (1).png",
+                            "path": null,
+                            "size": 60.95,
+                            "width": 207,
+                            "height": 156,
+                            "sizeInBytes": 60952,
+                            "provider_metadata": {
+                                "public_id": "thumbnail_bmw_1_e557270ec4",
+                                "resource_type": "image"
+                            }
+                        }
+                    },
+                    "hash": "bmw_1_e557270ec4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 102.92,
+                    "url": "https://res.cloudinary.com/dbg0g1ot1/image/upload/v1748503783/bmw_1_e557270ec4.png",
+                    "previewUrl": null,
+                    "provider": "cloudinary",
+                    "provider_metadata": {
+                        "public_id": "bmw_1_e557270ec4",
+                        "resource_type": "image"
+                    },
+                    "createdAt": "2025-05-29T07:29:44.647Z",
+                    "updatedAt": "2025-05-29T07:29:44.647Z",
+                    "publishedAt": "2025-05-29T07:29:44.647Z"
+                },
+                {
+                    "id": 51,
+                    "documentId": "d1uyyk4jm5efocka4zd4oi0y",
+                    "name": "bmw (3).png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 477,
+                    "height": 523,
+                    "formats": {
+                        "small": {
+                            "ext": ".png",
+                            "url": "https://res.cloudinary.com/dbg0g1ot1/image/upload/v1748503784/small_bmw_3_2236e42bf5.png",
+                            "hash": "small_bmw_3_2236e42bf5",
+                            "mime": "image/png",
+                            "name": "small_bmw (3).png",
+                            "path": null,
+                            "size": 310.59,
+                            "width": 456,
+                            "height": 500,
+                            "sizeInBytes": 310594,
+                            "provider_metadata": {
+                                "public_id": "small_bmw_3_2236e42bf5",
+                                "resource_type": "image"
+                            }
+                        },
+                        "thumbnail": {
+                            "ext": ".png",
+                            "url": "https://res.cloudinary.com/dbg0g1ot1/image/upload/v1748503783/thumbnail_bmw_3_2236e42bf5.png",
+                            "hash": "thumbnail_bmw_3_2236e42bf5",
+                            "mime": "image/png",
+                            "name": "thumbnail_bmw (3).png",
+                            "path": null,
+                            "size": 41.91,
+                            "width": 142,
+                            "height": 156,
+                            "sizeInBytes": 41910,
+                            "provider_metadata": {
+                                "public_id": "thumbnail_bmw_3_2236e42bf5",
+                                "resource_type": "image"
+                            }
+                        }
+                    },
+                    "hash": "bmw_3_2236e42bf5",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 94.95,
+                    "url": "https://res.cloudinary.com/dbg0g1ot1/image/upload/v1748503783/bmw_3_2236e42bf5.png",
+                    "previewUrl": null,
+                    "provider": "cloudinary",
+                    "provider_metadata": {
+                        "public_id": "bmw_3_2236e42bf5",
+                        "resource_type": "image"
+                    },
+                    "createdAt": "2025-05-29T07:29:44.717Z",
+                    "updatedAt": "2025-05-29T07:29:44.717Z",
+                    "publishedAt": "2025-05-29T07:29:44.717Z"
+                }
+            ],
+            "brand": {
+                "id": 20,
+                "documentId": "m1ipne6pp8uhrfr0i5q7z2yb",
+                "name": "BMW",
+                "country": "Germany",
+                "createdAt": "2025-05-28T10:10:48.609Z",
+                "updatedAt": "2025-05-28T10:10:48.609Z",
+                "publishedAt": "2025-05-28T10:10:49.260Z"
+            },
+            "thumbnail": {
+                "id": 82,
+                "documentId": "qn44tdq9fuwr7mje5yq8ly7t",
+                "name": "bmw (1).png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 575,
+                "height": 434,
+                "formats": {
+                    "small": {
+                        "ext": ".png",
+                        "url": "https://res.cloudinary.com/dbg0g1ot1/image/upload/v1748507055/small_bmw_1_717c46ddea.png",
+                        "hash": "small_bmw_1_717c46ddea",
+                        "mime": "image/png",
+                        "name": "small_bmw (1).png",
+                        "path": null,
+                        "size": 307.83,
+                        "width": 500,
+                        "height": 377,
+                        "sizeInBytes": 307830,
+                        "provider_metadata": {
+                            "public_id": "small_bmw_1_717c46ddea",
+                            "resource_type": "image"
+                        }
+                    },
+                    "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://res.cloudinary.com/dbg0g1ot1/image/upload/v1748507054/thumbnail_bmw_1_717c46ddea.png",
+                        "hash": "thumbnail_bmw_1_717c46ddea",
+                        "mime": "image/png",
+                        "name": "thumbnail_bmw (1).png",
+                        "path": null,
+                        "size": 60.95,
+                        "width": 207,
+                        "height": 156,
+                        "sizeInBytes": 60952,
+                        "provider_metadata": {
+                            "public_id": "thumbnail_bmw_1_717c46ddea",
+                            "resource_type": "image"
+                        }
+                    }
+                },
+                "hash": "bmw_1_717c46ddea",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 102.92,
+                "url": "https://res.cloudinary.com/dbg0g1ot1/image/upload/v1748507054/bmw_1_717c46ddea.png",
+                "previewUrl": null,
+                "provider": "cloudinary",
+                "provider_metadata": {
+                    "public_id": "bmw_1_717c46ddea",
+                    "resource_type": "image"
+                },
+                "createdAt": "2025-05-29T08:24:15.844Z",
+                "updatedAt": "2025-05-29T08:24:15.844Z",
+                "publishedAt": "2025-05-29T08:24:15.845Z"
+            }
+        }
