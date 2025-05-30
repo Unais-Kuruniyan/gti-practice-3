@@ -1,0 +1,148 @@
+{
+            "id": 28,
+            "documentId": "ocru9d5an57r93ylv6yyz41q",
+            "name": "Swift Miniature",
+            "slug": "swift-miniature",
+            "description": "A high-quality 1:32 scale model of the Thar off-road vehicle.",
+            "price": 899,
+            "scale": "1:32",
+            "isLimitedEdition": false,
+            "stock": 5,
+            "createdAt": "2025-05-28T14:02:19.191Z",
+            "updatedAt": "2025-05-28T14:52:09.784Z",
+            "publishedAt": "2025-05-28T14:52:10.740Z",
+            "images": [
+                {
+                    "id": 46,
+                    "documentId": "f0v1f944i1705h5v9k0xo0f9",
+                    "name": "swift (2).png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 500,
+                    "height": 500,
+                    "formats": {
+                        "thumbnail": {
+                            "ext": ".png",
+                            "url": "https://res.cloudinary.com/dbg0g1ot1/image/upload/v1748443900/thumbnail_swift_2_7b58d40cab.png",
+                            "hash": "thumbnail_swift_2_7b58d40cab",
+                            "mime": "image/png",
+                            "name": "thumbnail_swift (2).png",
+                            "path": null,
+                            "size": 21.49,
+                            "width": 156,
+                            "height": 156,
+                            "sizeInBytes": 21493,
+                            "provider_metadata": {
+                                "public_id": "thumbnail_swift_2_7b58d40cab",
+                                "resource_type": "image"
+                            }
+                        }
+                    },
+                    "hash": "swift_2_7b58d40cab",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 43.09,
+                    "url": "https://res.cloudinary.com/dbg0g1ot1/image/upload/v1748443900/swift_2_7b58d40cab.png",
+                    "previewUrl": null,
+                    "provider": "cloudinary",
+                    "provider_metadata": {
+                        "public_id": "swift_2_7b58d40cab",
+                        "resource_type": "image"
+                    },
+                    "createdAt": "2025-05-28T14:51:40.981Z",
+                    "updatedAt": "2025-05-28T14:51:40.981Z",
+                    "publishedAt": "2025-05-28T14:51:40.981Z"
+                },
+                {
+                    "id": 47,
+                    "documentId": "b65qwmi40fzk2w908bqf0c9q",
+                    "name": "swift (1).png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 500,
+                    "height": 500,
+                    "formats": {
+                        "thumbnail": {
+                            "ext": ".png",
+                            "url": "https://res.cloudinary.com/dbg0g1ot1/image/upload/v1748443900/thumbnail_swift_1_25fd5c6d95.png",
+                            "hash": "thumbnail_swift_1_25fd5c6d95",
+                            "mime": "image/png",
+                            "name": "thumbnail_swift (1).png",
+                            "path": null,
+                            "size": 21.89,
+                            "width": 156,
+                            "height": 156,
+                            "sizeInBytes": 21890,
+                            "provider_metadata": {
+                                "public_id": "thumbnail_swift_1_25fd5c6d95",
+                                "resource_type": "image"
+                            }
+                        }
+                    },
+                    "hash": "swift_1_25fd5c6d95",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 44.22,
+                    "url": "https://res.cloudinary.com/dbg0g1ot1/image/upload/v1748443900/swift_1_25fd5c6d95.png",
+                    "previewUrl": null,
+                    "provider": "cloudinary",
+                    "provider_metadata": {
+                        "public_id": "swift_1_25fd5c6d95",
+                        "resource_type": "image"
+                    },
+                    "createdAt": "2025-05-28T14:51:41.421Z",
+                    "updatedAt": "2025-05-28T14:51:41.421Z",
+                    "publishedAt": "2025-05-28T14:51:41.421Z"
+                },
+                {
+                    "id": 48,
+                    "documentId": "xr651wnd77xpctqpc7ap1p27",
+                    "name": "swift (3).png",
+                    "alternativeText": null,
+                    "caption": null,
+                    "width": 500,
+                    "height": 500,
+                    "formats": {
+                        "thumbnail": {
+                            "ext": ".png",
+                            "url": "https://res.cloudinary.com/dbg0g1ot1/image/upload/v1748443901/thumbnail_swift_3_85f1bb622f.png",
+                            "hash": "thumbnail_swift_3_85f1bb622f",
+                            "mime": "image/png",
+                            "name": "thumbnail_swift (3).png",
+                            "path": null,
+                            "size": 22.24,
+                            "width": 156,
+                            "height": 156,
+                            "sizeInBytes": 22243,
+                            "provider_metadata": {
+                                "public_id": "thumbnail_swift_3_85f1bb622f",
+                                "resource_type": "image"
+                            }
+                        }
+                    },
+                    "hash": "swift_3_85f1bb622f",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 50.72,
+                    "url": "https://res.cloudinary.com/dbg0g1ot1/image/upload/v1748443900/swift_3_85f1bb622f.png",
+                    "previewUrl": null,
+                    "provider": "cloudinary",
+                    "provider_metadata": {
+                        "public_id": "swift_3_85f1bb622f",
+                        "resource_type": "image"
+                    },
+                    "createdAt": "2025-05-28T14:51:43.009Z",
+                    "updatedAt": "2025-05-28T14:51:43.009Z",
+                    "publishedAt": "2025-05-28T14:51:43.009Z"
+                }
+            ],
+            "brand": {
+                "id": 22,
+                "documentId": "pe2gb2qwsu2w7puxvtrii0yz",
+                "name": "Maruti Suzuki",
+                "country": "India",
+                "createdAt": "2025-05-28T14:39:28.842Z",
+                "updatedAt": "2025-05-28T14:39:28.842Z",
+                "publishedAt": "2025-05-28T14:39:29.331Z"
+            }
+        }
